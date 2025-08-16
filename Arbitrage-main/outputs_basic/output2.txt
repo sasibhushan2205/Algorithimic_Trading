@@ -1,0 +1,11 @@
+No Trade
+No Trade
+No Trade
+X -1 Y -1 -20 b
+Y 1 X 1 30 s
+No Trade
+No Trade
+No Trade
+10
+
+Hint: Go through the cancellation laws given in the basic_vesion readme

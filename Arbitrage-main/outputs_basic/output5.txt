@@ -1,0 +1,10 @@
+No Trade
+No Trade
+No Trade
+No Trade
+0
+
+Hint: Cancellation is more imporatant than arbitrage.
+So first you have to decide is it a valid order or not>
+A valid order is that which is not cancelled by any other live order.
+So arbitrage is checked only for valid orders.

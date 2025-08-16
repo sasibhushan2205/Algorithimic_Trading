@@ -1,0 +1,33 @@
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+0
+
+Hint: Your code should not crash for this input.
+You have to write some prediction rules, to skip some unessecary iterations.
+It' perfectly fine if your code crashes when in the last order A 1 is changed to A -1
+but for this your code should output within 5 sec.
+ 

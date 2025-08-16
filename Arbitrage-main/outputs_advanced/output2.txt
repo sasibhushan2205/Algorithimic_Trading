@@ -1,0 +1,12 @@
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+X -1 Y -1 20 2 s
+X 1 Y 1 10 2 s
+60
+
+Hint: Go through the cancellation laws carefully.
+The laws are very different from basic version.

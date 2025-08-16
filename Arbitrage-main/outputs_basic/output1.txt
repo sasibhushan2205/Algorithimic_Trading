@@ -1,0 +1,8 @@
+No Trade
+No Trade
+Z 1 X -1 10 s
+Y 1 Z -1 10 s
+X 1 Y -1 10 s
+30
+
+This is a simple case of arbitrage

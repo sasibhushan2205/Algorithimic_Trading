@@ -1,0 +1,14 @@
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+X -15 Y -15 -500 6 b
+X 4 Y 1 150 9 s
+X 1 Y 4 150 9 s
+Y 1 X 2 45 5 s
+X 2 Y 1 100 10 s
+X 1 Y 2 100 15 s
+2425
+
+Hint: Try to complete it within 30sec
